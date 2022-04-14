@@ -1,1 +1,1 @@
-console.log("oi6")
+console.log('oi6');

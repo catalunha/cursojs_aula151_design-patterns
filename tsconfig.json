@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "target": "ES2019",
-    "module": "CommonJS",
+    "module": "commonjs",                                /* Specify what module code is generated. */
     "lib": ["ESNext","DOM"],
     "outDir": "./dist",
     "rootDir": "./src",
